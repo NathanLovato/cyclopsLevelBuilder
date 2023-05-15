@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwq4w4vf8um1f"
-path="res://.godot/imported/create_stairs.svg-d5c3678feb9fe435beb3be7ad9e116de.ctex"
+uid="uid://dl2cbif2fap77"
+path="res://.godot/imported/move.svg-ed763a44f715fed1ba9cd0ebb407610b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/cyclops_level_builder/art/icons/create_stairs.svg"
-dest_files=["res://.godot/imported/create_stairs.svg-d5c3678feb9fe435beb3be7ad9e116de.ctex"]
+source_file="res://addons/cyclops_level_builder/art/icons/move.svg"
+dest_files=["res://.godot/imported/move.svg-ed763a44f715fed1ba9cd0ebb407610b.ctex"]
 
 [params]
 
